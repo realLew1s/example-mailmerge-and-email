@@ -17,7 +17,8 @@ Simply load your data and you will be generating letters and have the ability to
 ## Looking Forward?
 
 1. Add the capability for you to import data from another workbook, for common extracts such as Shopify, Stripe transactions etc.
-2. Enable data sourcing from a mySQL database 
+2. Rewrite the codebase to use classes for the letters as well as functions for repeated if statements to make the reading and intepretation simpler
+3. Enable data sourcing from a mySQL database 
 
 Please remember this is just a Proof of Concept
 
