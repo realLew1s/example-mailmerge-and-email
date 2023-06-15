@@ -26,11 +26,11 @@ Please remember this is just a Proof of Concept
 
 Verifying the data has the required fields
 
-![fa200c439ee18d6700b1c489bffdfd7c](https://github.com/realLew1s/desktop-tutorial/assets/131590570/20649e3e-915d-417d-b0f3-fa5f65fa7886)
+![fa200c439ee18d6700b1c489bffdfd7c](https://github.com/realLew1s/example-mailmerge-and-email/assets/131590570/f05f9641-1ff2-46a3-a0c2-d1e9aeeee0dd)
 
 Following this we will generate our Letters
 
-![c81bf28cea8ad381a06fd08ee8f98ec6](https://github.com/realLew1s/desktop-tutorial/assets/131590570/84e959a4-013b-4bf2-977e-687e0c89cd82)
+![c81bf28cea8ad381a06fd08ee8f98ec6](https://github.com/realLew1s/example-mailmerge-and-email/assets/131590570/11d4a1e9-2a88-41dc-ad20-22a75b9d77cd)
 
 Now that we have generated our letters we can review the output file to see if they have been generated correctly
 
@@ -38,7 +38,8 @@ Now that we have generated our letters we can review the output file to see if t
 
 Notice that there are now two rows in the Letter Generated table, we will now proceed to emailing the customers. This will email from the inbox you are logged in to on Outlook
 
-![13e2b156a6969a7747a7fc840e76cdc4](https://github.com/realLew1s/desktop-tutorial/assets/131590570/6ef22a25-7330-415a-898d-b98c1dea418a)
+![13e2b156a6969a7747a7fc840e76cdc4](https://github.com/realLew1s/example-mailmerge-and-email/assets/131590570/716b289e-dee2-4fef-a34a-b6f6c4be0933)
+
 
 We have now been able to successfuly send our emails, and we can confirm this via our log sheet
 
